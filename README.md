@@ -1,1 +1,19 @@
 # dangDangHae
+카페24 당당해체
+
+<pre>
+@font-face {
+    font-family: "dangDangHae";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/dangDangHae/dangDangHae.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/dangDangHae/dangDangHae.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/dangDangHae/dangDangHae.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/dangDangHae/dangDangHae.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/dangDangHae/dangDangHae.ttf") format("truetype");
+    font-display: swap;
+} 
+.dangDangHae {
+    font-family: "dangDangHae";
+}
+</pre>
